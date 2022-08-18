@@ -2,6 +2,7 @@ public class Student{
   String name;
   String school;
   int id;
+  int newwwww;
   
   Student(String name, String school, int id){
     this.name=name;
