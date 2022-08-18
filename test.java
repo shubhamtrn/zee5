@@ -14,7 +14,12 @@ public class Student{
 }
 
 public static void main(String args[]){
-  Student st1=new Student("Shubham","DPS",12);
-  st1.display;
+
+  Student st2=new Student("Sohan","VBS",13);
+  st2.display;
+  Student st3=new Student("Rahul","tango",14);
+  st3.display;
+  
+  
 }
   
